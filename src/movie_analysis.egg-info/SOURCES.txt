@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/movie_analysis/__init__.py
+src/movie_analysis.egg-info/PKG-INFO
+src/movie_analysis.egg-info/SOURCES.txt
+src/movie_analysis.egg-info/dependency_links.txt
+src/movie_analysis.egg-info/top_level.txt
